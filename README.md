@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco Falcone
 - 👀 I’m interested in Technology, IT, PC Building and Cinema!
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently learning how to be a great developer
 - 📫 How to reach me => mfalcone.dev@gmail.com
 
 <!---
